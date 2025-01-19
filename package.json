@@ -1,0 +1,16 @@
+{
+  "name": "express_tutorials",
+  "author" : "Rhoda Lee",
+  "version": "1.0.0",
+  "description": "Learning backend development with Express.js",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
